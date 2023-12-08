@@ -1118,6 +1118,123 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/5e2e3fcc57885d5e510934e621be5f8dd7a5b6425cf46ef38073e3d2c3b04048_Kenney Mini Square.ttf",
           "name": "Kenney Mini Square.ttf"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Checkbox_Blank No Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Checkbox_Blank No Shadow.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Interface/PX UI Basic/c34836aec2725b32c71325923fa770cb78c841f255ae5928db8836570b88b00a_Checkbox_Blank No Shadow.png",
+          "name": "Checkbox_Blank No Shadow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Checkbox_Blank Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Checkbox_Blank Shadow.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Interface/PX UI Basic/87cf337b0ea19f5405cb30c2d5d05304f350cf73adf304a97830fa0a5f0dc078_Checkbox_Blank Shadow.png",
+          "name": "Checkbox_Blank Shadow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Checkbox_Checked No Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Checkbox_Checked No Shadow.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Interface/PX UI Basic/484cdc49356afb62cc1714ee572d845391ec0461c22d34a30f4932fb31a3e9d0_Checkbox_Checked No Shadow.png",
+          "name": "Checkbox_Checked No Shadow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Checkbox_Checked Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Checkbox_Checked Shadow.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Interface/PX UI Basic/ac5bae7d897c62ce63262728ef4afd2ce90726f248d1b7abaca7120300cfa017_Checkbox_Checked Shadow.png",
+          "name": "Checkbox_Checked Shadow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Checkbox_Negative No Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Checkbox_Negative No Shadow.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Interface/PX UI Basic/9aa5ab8043ae67ef41c6ed1ef25b3f704c7e5697d463142b13264728e95f5358_Checkbox_Negative No Shadow.png",
+          "name": "Checkbox_Negative No Shadow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Checkbox_Negative Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Checkbox_Negative Shadow.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Interface/PX UI Basic/bacfd170ff55d74873fb8f9fb2108ec2303ef8e40a2649bc3ec8fff71dbe28d1_Checkbox_Negative Shadow.png",
+          "name": "Checkbox_Negative Shadow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Green Box_No Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Green Box_No Shadow.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Interface/PX UI Basic/258669cacf08185c2669b23435ca5e6c769fcb2355d98abaa15dd0b456469a47_Green Box_No Shadow.png",
+          "name": "Green Box_No Shadow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Green Box_Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Green Box_Shadow.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Interface/PX UI Basic/3cce2c7b53a6d4d000a9146184f716507ac65e19788d51d03086fbb80dda561d_Green Box_Shadow.png",
+          "name": "Green Box_Shadow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Water.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Water.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Pixel art items/Pixel Mart/Drink/ec9588412b7afa337cd6523b8f3c9dd24706f83351524b750042a3359f562395_Water.png",
+          "name": "Water.png"
+        }
       }
     ],
     "resourceFolders": []
@@ -1298,23 +1415,7 @@
           "width": 145,
           "x": 510,
           "y": 689,
-          "zOrder": 8,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 5,
-          "height": 150,
-          "layer": "",
-          "name": "fish_crate",
-          "persistentUuid": "6e14104a-3273-458e-8bd1-2a4e85c3e46d",
-          "width": 155,
-          "x": 423,
-          "y": 388,
-          "zOrder": 9,
+          "zOrder": 11,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1328,25 +1429,9 @@
           "name": "fish_crate",
           "persistentUuid": "137840da-82a0-4a7f-9402-aa213b216d10",
           "width": 153,
-          "x": 588,
-          "y": 387,
-          "zOrder": 10,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 153,
-          "layer": "",
-          "name": "raw_fish",
-          "persistentUuid": "35f0a736-74d9-46a4-919b-4050f8b99b07",
-          "width": 98,
-          "x": 451,
+          "x": 406,
           "y": 384,
-          "zOrder": 12,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1360,9 +1445,9 @@
           "name": "stove",
           "persistentUuid": "e53b2f5d-758a-4484-86a4-7a3a3e9917de",
           "width": 375,
-          "x": 1078,
+          "x": 1110,
           "y": 333,
-          "zOrder": 13,
+          "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1371,14 +1456,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 2,
-          "height": 312,
+          "height": 295,
           "layer": "",
           "name": "Sink",
           "persistentUuid": "a95b2344-5db5-4fc3-9a39-8d5ce43c1a17",
-          "width": 427,
-          "x": 1319,
-          "y": 337,
-          "zOrder": 14,
+          "width": 400,
+          "x": 1343,
+          "y": 341,
+          "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1408,8 +1493,8 @@
           "name": "kitchen_table3",
           "persistentUuid": "d5927488-d077-4403-9bca-0d2857eeb086",
           "width": 282,
-          "x": 1162,
-          "y": 696,
+          "x": 1326,
+          "y": 684,
           "zOrder": 20,
           "numberProperties": [],
           "stringProperties": [],
@@ -1424,8 +1509,8 @@
           "name": "DishPile",
           "persistentUuid": "54aee379-276f-41c1-a09c-32bcf0e74a7b",
           "width": 124,
-          "x": 1389,
-          "y": 751,
+          "x": 1549,
+          "y": 744,
           "zOrder": 22,
           "numberProperties": [],
           "stringProperties": [],
@@ -1440,8 +1525,8 @@
           "name": "InstructionsText",
           "persistentUuid": "cdd3ec75-6b7a-4be1-a57f-1233c42aa891",
           "width": 1296,
-          "x": 53,
-          "y": 174,
+          "x": 45,
+          "y": 89,
           "zOrder": 33,
           "numberProperties": [],
           "stringProperties": [],
@@ -1456,8 +1541,8 @@
           "name": "MoneyCount",
           "persistentUuid": "145d4eff-b36b-4d7d-bd35-1143aa8f3429",
           "width": 195,
-          "x": 87,
-          "y": 403,
+          "x": 82,
+          "y": 415,
           "zOrder": 35,
           "numberProperties": [],
           "stringProperties": [],
@@ -1472,24 +1557,8 @@
           "name": "kitchen_table3",
           "persistentUuid": "9abfa244-fbe1-4718-b1e2-3a13cfa060da",
           "width": 282,
-          "x": 1327,
-          "y": 695,
-          "zOrder": 20,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 235,
-          "layer": "",
-          "name": "kitchen_table3",
-          "persistentUuid": "5a7602fa-587f-4031-be93-ac59a661c747",
-          "width": 282,
-          "x": 1660,
-          "y": 693,
+          "x": 1491,
+          "y": 683,
           "zOrder": 20,
           "numberProperties": [],
           "stringProperties": [],
@@ -1504,8 +1573,8 @@
           "name": "DishPile",
           "persistentUuid": "802154dc-8996-4007-bc2a-86b80c8b3f22",
           "width": 124,
-          "x": 1554,
-          "y": 752,
+          "x": 1714,
+          "y": 745,
           "zOrder": 22,
           "numberProperties": [],
           "stringProperties": [],
@@ -1536,8 +1605,8 @@
           "name": "stove2",
           "persistentUuid": "32a5ccd7-3617-4fb7-9b53-840d9e8bde15",
           "width": 387,
-          "x": 862,
-          "y": 335,
+          "x": 881,
+          "y": 334,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -1552,8 +1621,8 @@
           "name": "raw_meat",
           "persistentUuid": "f47312d4-616d-4029-8b72-596cf6cb6b4f",
           "width": 116,
-          "x": 654,
-          "y": 474,
+          "x": 482,
+          "y": 473,
           "zOrder": 6,
           "numberProperties": [],
           "stringProperties": [],
@@ -1568,8 +1637,8 @@
           "name": "raw_meat2",
           "persistentUuid": "e17c6b11-9d5e-4bb6-9199-7e701dbcd4fd",
           "width": 134,
-          "x": 661,
-          "y": 459,
+          "x": 480,
+          "y": 451,
           "zOrder": 40,
           "numberProperties": [],
           "stringProperties": [],
@@ -1584,8 +1653,8 @@
           "name": "Dish",
           "persistentUuid": "f3b0d91a-f3f6-4b46-903d-e46040126bef",
           "width": 148,
-          "x": 1052,
-          "y": 745,
+          "x": 1212,
+          "y": 738,
           "zOrder": 6,
           "numberProperties": [],
           "stringProperties": [],
@@ -1600,8 +1669,8 @@
           "name": "Dish",
           "persistentUuid": "e8c62d45-fdfc-4b19-9e56-d1e863765ed2",
           "width": 148,
-          "x": 1212,
-          "y": 746,
+          "x": 1372,
+          "y": 739,
           "zOrder": 41,
           "numberProperties": [],
           "stringProperties": [],
@@ -1616,8 +1685,8 @@
           "name": "kitchen_table",
           "persistentUuid": "3e035f01-1c14-4d20-b03d-f15ab8b1c094",
           "width": 282,
-          "x": 996,
-          "y": 695,
+          "x": 1160,
+          "y": 683,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -1632,8 +1701,8 @@
           "name": "kitchen_table3",
           "persistentUuid": "6c9e4e02-cfd9-49dc-9001-d96eea36afb7",
           "width": 282,
-          "x": 1494,
-          "y": 694,
+          "x": 1658,
+          "y": 682,
           "zOrder": 20,
           "numberProperties": [],
           "stringProperties": [],
@@ -1695,8 +1764,8 @@
           "name": "MenuText",
           "persistentUuid": "2a579c22-8316-4cf2-9c31-f5b031960593",
           "width": 0,
-          "x": 83,
-          "y": 529,
+          "x": 95,
+          "y": 563,
           "zOrder": 48,
           "numberProperties": [],
           "stringProperties": [],
@@ -1711,8 +1780,8 @@
           "name": "BlueBox",
           "persistentUuid": "9d2779b0-c599-4689-b8c6-af7cf84a7816",
           "width": 343,
-          "x": 46,
-          "y": 506,
+          "x": 53,
+          "y": 544,
           "zOrder": 8,
           "numberProperties": [],
           "stringProperties": [],
@@ -1726,8 +1795,8 @@
           "name": "currentorder",
           "persistentUuid": "a01e2a84-bae9-4918-a281-59d01158e156",
           "width": 0,
-          "x": 989,
-          "y": 194,
+          "x": 881,
+          "y": 200,
           "zOrder": 49,
           "numberProperties": [],
           "stringProperties": [],
@@ -1753,13 +1822,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 151,
+          "height": 142,
           "layer": "",
           "name": "cooked_meat",
           "persistentUuid": "86c2dc04-0ab7-4c78-b3fd-247cb9975035",
-          "width": 166,
-          "x": 1028,
-          "y": 434,
+          "width": 152,
+          "x": 1040,
+          "y": 432,
           "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
@@ -1793,6 +1862,53 @@
           "x": 525,
           "y": 868,
           "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "TimerText",
+          "persistentUuid": "dca37b6e-d682-4d09-beb9-fab0ff446585",
+          "width": 0,
+          "x": 858,
+          "y": 389,
+          "zOrder": 50,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 148,
+          "layer": "",
+          "name": "GreenBox",
+          "persistentUuid": "bba01d20-3dae-40be-aadc-bee9d201979e",
+          "width": 231,
+          "x": 52,
+          "y": 385,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 100,
+          "layer": "",
+          "name": "Water",
+          "persistentUuid": "aadf7acf-9a45-4feb-8d15-abae84aa04e1",
+          "width": 96,
+          "x": 362,
+          "y": 821,
+          "zOrder": 51,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4532,7 +4648,7 @@
           "variables": [],
           "effects": [],
           "behaviors": [],
-          "string": "Arrow Keys to Move\nPress \"E\" to Pickup/Drop Item",
+          "string": "Cook Steak on Grill\nArrow Keys to Move\nPress \"E\" to Pickup Item",
           "font": "CaveatBrush-Regular.ttf",
           "textAlignment": "left",
           "characterSize": 80,
@@ -4656,9 +4772,9 @@
           "variables": [],
           "effects": [],
           "behaviors": [],
-          "string": "MENU\nFish - $10\nSteak - $15",
+          "string": "MENU\nSteak - $15\nWater - $0",
           "font": "e96b43b0ca3fd7775d75a702f44cd1b0dfd325e1db317f7cba84efdf572571fe_Roboto-Regular.ttf",
-          "textAlignment": "center",
+          "textAlignment": "left",
           "characterSize": 50,
           "color": {
             "b": 0,
@@ -4974,6 +5090,174 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "fb44603ee783a8de832552fbf42cbe3e9fb6ab8da7e407f189ebf413265257d4",
+          "name": "GreenBox",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "No Shadow",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Green Box_No Shadow.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 97,
+                            "y": 0
+                          },
+                          {
+                            "x": 97,
+                            "y": 97
+                          },
+                          {
+                            "x": 0,
+                            "y": 97
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Shadow",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Green Box_Shadow.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 97,
+                            "y": 0
+                          },
+                          {
+                            "x": 97,
+                            "y": 97
+                          },
+                          {
+                            "x": 0,
+                            "y": 97
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "98ccce934361c3bd896f19b86203e2cb764ccbb3a3b38a910b4714f430147be8",
+          "name": "Water",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Water.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 1
+                          },
+                          {
+                            "x": 23,
+                            "y": 1
+                          },
+                          {
+                            "x": 23,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -5083,6 +5367,12 @@
           },
           {
             "objectName": "orderFish"
+          },
+          {
+            "objectName": "GreenBox"
+          },
+          {
+            "objectName": "Water"
           }
         ]
       },
@@ -5134,14 +5424,6 @@
                 "value": "Cache"
               },
               "parameters": [
-                "orderFish"
-              ]
-            },
-            {
-              "type": {
-                "value": "Cache"
-              },
-              "parameters": [
                 "cooked_meat"
               ]
             },
@@ -5159,36 +5441,6 @@
               },
               "parameters": [
                 "cooked_meat2"
-              ]
-            }
-          ]
-        },
-        {
-          "disabled": true,
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "CompareTimer"
-              },
-              "parameters": [
-                "InstructionsText",
-                "\"instruction timer\"",
-                ">",
-                "5"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "OpacityCapability::OpacityBehavior::SetValue"
-              },
-              "parameters": [
-                "InstructionsText",
-                "Opacity",
-                "-",
-                "255"
               ]
             }
           ]
@@ -5336,110 +5588,6 @@
                   ]
                 }
               ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "TopDownMovementBehavior::IsMoving"
-                  },
-                  "parameters": [
-                    "Chef_player",
-                    "TopDownMovement"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::Index"
-                  },
-                  "parameters": [
-                    "Chef_player",
-                    "Animation",
-                    "=",
-                    "0"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::PauseAnimation"
-                  },
-                  "parameters": [
-                    "Chef_player",
-                    "Animation"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
-                  },
-                  "parameters": [
-                    "Chef_player",
-                    "Animation",
-                    "=",
-                    "0"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ModVarScene"
-                  },
-                  "parameters": [
-                    "StepSound",
-                    "=",
-                    "RandomInRange(1,4)"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "TopDownMovementBehavior::IsMoving"
-                  },
-                  "parameters": [
-                    "Chef_player",
-                    "TopDownMovement"
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::PlayAnimation"
-                  },
-                  "parameters": [
-                    "Chef_player",
-                    "Animation"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "VarScene"
-                  },
-                  "parameters": [
-                    "StepSound",
-                    "=",
-                    "1"
-                  ]
-                }
-              ],
-              "actions": []
             }
           ],
           "parameters": []
@@ -5752,35 +5900,6 @@
                   },
                   "parameters": [
                     "Chef_player",
-                    "kitchen_table2",
-                    "",
-                    "",
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "SeparateFromObjects"
-                  },
-                  "parameters": [
-                    "Chef_player",
-                    "kitchen_table2",
-                    ""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "CollisionNP"
-                  },
-                  "parameters": [
-                    "Chef_player",
                     "kitchen_table3",
                     "",
                     "",
@@ -5810,7 +5929,7 @@
                   },
                   "parameters": [
                     "Chef_player",
-                    "kitchen_table4",
+                    "BlueBox",
                     "",
                     "",
                     ""
@@ -5824,7 +5943,7 @@
                   },
                   "parameters": [
                     "Chef_player",
-                    "kitchen_table4",
+                    "BlueBox",
                     ""
                   ]
                 }
@@ -5963,6 +6082,26 @@
                     "isHoldingItem",
                     "False"
                   ]
+                },
+                {
+                  "type": {
+                    "value": "Montre"
+                  },
+                  "parameters": [
+                    "TimerText",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "TimerText",
+                    "Text",
+                    "=",
+                    "\"0:0\"+ ToString(floor(TimerElapsedTime(\"cooking\")))"
+                  ]
                 }
               ]
             },
@@ -5984,11 +6123,19 @@
               "actions": [
                 {
                   "type": {
-                    "value": "ResetObjectTimer"
+                    "value": "ResetTimer"
                   },
                   "parameters": [
                     "raw_meat",
                     "\"cooking\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "TimerText"
                   ]
                 }
               ]
@@ -5998,7 +6145,7 @@
               "conditions": [
                 {
                   "type": {
-                    "value": "CompareObjectTimer"
+                    "value": "CompareTimer"
                   },
                   "parameters": [
                     "raw_meat",
@@ -6025,9 +6172,9 @@
                   "parameters": [
                     "raw_meat",
                     "=",
-                    "654",
+                    "482",
                     "=",
-                    "474"
+                    "473"
                   ]
                 },
                 {
@@ -6169,19 +6316,26 @@
                       },
                       "parameters": [
                         "random_order",
-                        "<",
-                        "1"
+                        "=",
+                        "0"
                       ]
                     }
                   ],
                   "actions": [
                     {
                       "type": {
-                        "value": "ResetTimer"
+                        "value": "Cache"
                       },
                       "parameters": [
-                        "",
-                        "\"served\""
+                        "cooked_meat2"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Cache"
+                      },
+                      "parameters": [
+                        "cooked_meat3"
                       ]
                     }
                   ]
@@ -6348,40 +6502,6 @@
                     "random_order",
                     "=",
                     "RandomInRange(1,2)"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "CompareTimer"
-                  },
-                  "parameters": [
-                    "",
-                    "\"served\"",
-                    ">",
-                    "3"
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Cache"
-                  },
-                  "parameters": [
-                    "cooked_meat2"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Cache"
-                  },
-                  "parameters": [
-                    "cooked_meat3"
                   ]
                 }
               ]
@@ -6699,7 +6819,7 @@
                     "MoneyCount",
                     "Text",
                     "=",
-                    "\"$200\""
+                    "\"$105\""
                   ]
                 }
               ],
@@ -6850,13 +6970,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 588,
+          "height": 794,
           "layer": "",
           "name": "Title_",
           "persistentUuid": "66c2c828-ccbb-4bc0-8ac9-4f11971ca140",
-          "width": 870,
-          "x": 594,
-          "y": 80,
+          "width": 1064,
+          "x": 603,
+          "y": 125,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -6866,13 +6986,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 34,
-          "height": 67,
+          "height": 108,
           "layer": "",
           "name": "start_game",
           "persistentUuid": "ca7315e8-5be2-4b75-a246-1ee12a109d0e",
-          "width": 201,
-          "x": 825,
-          "y": 453,
+          "width": 271,
+          "x": 827,
+          "y": 554,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -6882,13 +7002,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 32,
-          "height": 67,
+          "height": 115,
           "layer": "",
           "name": "quit_game",
           "persistentUuid": "80e8c6f1-ee06-4c21-a39f-9ae33c3251e8",
-          "width": 201,
-          "x": 833,
-          "y": 602,
+          "width": 271,
+          "x": 831,
+          "y": 729,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -6956,7 +7076,7 @@
               "string": "PLAY",
               "font": "CaveatBrush-Regular.ttf",
               "textAlignment": "center",
-              "characterSize": 40,
+              "characterSize": 70,
               "color": {
                 "b": 159,
                 "g": 190,
@@ -7019,7 +7139,7 @@
               "string": "Quit",
               "font": "CaveatBrush-Regular.ttf",
               "textAlignment": "center",
-              "characterSize": 40,
+              "characterSize": 70,
               "color": {
                 "b": 159,
                 "g": 190,
@@ -7134,6 +7254,33 @@
         ]
       },
       "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "kickn-back-176243.mp3",
+                "yes",
+                "10",
+                ""
+              ]
+            }
+          ]
+        },
         {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
@@ -7254,10 +7401,6 @@
         {
           "name": "Scale",
           "type": "ScalableCapability::ScalableBehavior"
-        },
-        {
-          "name": "Text",
-          "type": "TextContainerCapability::TextContainerBehavior"
         }
       ]
     },
@@ -7307,13 +7450,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 5,
-          "height": 158,
+          "height": 252,
           "layer": "",
           "name": "Ballooney",
           "persistentUuid": "38bebd30-d346-4084-a203-d451e891d442",
-          "width": 158,
-          "x": 167,
-          "y": 447,
+          "width": 244,
+          "x": 110,
+          "y": 437,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -7322,14 +7465,14 @@
         {
           "angle": 0,
           "customSize": true,
-          "depth": 0,
-          "height": 158,
+          "depth": 1,
+          "height": 256,
           "layer": "",
           "name": "Ballooney",
           "persistentUuid": "9826f784-002a-4b43-bf9c-8178a6ae242e",
-          "width": 158,
-          "x": 1538,
-          "y": 456,
+          "width": 254,
+          "x": 1562,
+          "y": 442,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -7339,13 +7482,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 50,
-          "height": 100,
+          "height": 137,
           "layer": "",
           "name": "PLAY_AGAIN",
           "persistentUuid": "cf9a14bc-43da-431f-9dd7-27f435205419",
-          "width": 300,
-          "x": 755,
-          "y": 501,
+          "width": 348,
+          "x": 770,
+          "y": 508,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -7355,13 +7498,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 32,
-          "height": 100,
+          "height": 139,
           "layer": "",
           "name": "QUIT",
           "persistentUuid": "674a7077-02c0-4a29-8857-633624556db5",
-          "width": 300,
-          "x": 753,
-          "y": 623,
+          "width": 351,
+          "x": 771,
+          "y": 686,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -7375,9 +7518,9 @@
           "layer": "",
           "name": "Win",
           "persistentUuid": "dcd5a4ba-67f5-440f-a10c-e9de64bb3475",
-          "width": 956,
-          "x": 488,
-          "y": 153,
+          "width": 1205,
+          "x": 354,
+          "y": 169,
           "zOrder": 6,
           "numberProperties": [],
           "stringProperties": [],
@@ -7541,7 +7684,7 @@
               "string": "PLAY AGAIN",
               "font": "Kenney Mini Square.ttf",
               "textAlignment": "center",
-              "characterSize": 45,
+              "characterSize": 60,
               "color": {
                 "b": 255,
                 "g": 255,
@@ -7604,7 +7747,7 @@
               "string": "QUIT",
               "font": "Kenney Mini Square.ttf",
               "textAlignment": "center",
-              "characterSize": 45,
+              "characterSize": 60,
               "color": {
                 "b": 255,
                 "g": 255,
@@ -7634,10 +7777,10 @@
           "variables": [],
           "effects": [],
           "behaviors": [],
-          "string": "                                 WOW!!!\n\nYOU REACHED $200 Dollars thanks for playing",
-          "font": "",
-          "textAlignment": "left",
-          "characterSize": 40,
+          "string": "You Made $100 Dollars! \nThanks For Playing :)",
+          "font": "e96b43b0ca3fd7775d75a702f44cd1b0dfd325e1db317f7cba84efdf572571fe_Roboto-Regular.ttf",
+          "textAlignment": "center",
+          "characterSize": 100,
           "color": {
             "b": 0,
             "g": 0,
@@ -7666,6 +7809,33 @@
         ]
       },
       "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "kickn-back-176243.mp3",
+                "yes",
+                "10",
+                ""
+              ]
+            }
+          ]
+        },
         {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
