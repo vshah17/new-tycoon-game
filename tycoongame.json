@@ -1003,6 +1003,45 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Interface/PX UI Basic/23bf29e1210d5a7ced8d1bc1b0d487f437496ef525a0fcd55a74e6860aebb0ec_Red Box_Shadow.png",
           "name": "Red Box_Shadow.png"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Hotdog Dish.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Hotdog Dish.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Pixel art items/Pixel Food/Dishes/8e6f470c9165e6a889bee4dff1c4c71f9367bb768b583bb04422b1cf6419a790_Hotdog Dish.png",
+          "name": "Hotdog Dish.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blue Box_No Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blue Box_No Shadow.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Interface/PX UI Basic/810a7e45389c46b729c0d9e0b4d8349d38a2cbafeec2b91b7812160c642ef666_Blue Box_No Shadow.png",
+          "name": "Blue Box_No Shadow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blue Box_Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blue Box_Shadow.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Interface/PX UI Basic/8c567a937aee0e307a4f89290ba2083ddde3ec839e207a9e706e0a09ab160b3d_Blue Box_Shadow.png",
+          "name": "Blue Box_Shadow.png"
+        }
       }
     ],
     "resourceFolders": []
@@ -1072,11 +1111,12 @@
           "depth": 1,
           "height": 698,
           "layer": "",
+          "locked": true,
           "name": "WoodBackground",
           "persistentUuid": "81825afe-f83c-4c24-bd3b-5820d6504232",
           "width": 1900,
-          "x": 21,
-          "y": 377,
+          "x": 23,
+          "y": 374,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -1171,7 +1211,7 @@
           "name": "fish_crate",
           "persistentUuid": "6e14104a-3273-458e-8bd1-2a4e85c3e46d",
           "width": 155,
-          "x": 380,
+          "x": 423,
           "y": 388,
           "zOrder": 9,
           "numberProperties": [],
@@ -1187,7 +1227,7 @@
           "name": "fish_crate",
           "persistentUuid": "137840da-82a0-4a7f-9402-aa213b216d10",
           "width": 153,
-          "x": 540,
+          "x": 583,
           "y": 389,
           "zOrder": 10,
           "numberProperties": [],
@@ -1203,7 +1243,7 @@
           "name": "raw_fish",
           "persistentUuid": "35f0a736-74d9-46a4-919b-4050f8b99b07",
           "width": 98,
-          "x": 408,
+          "x": 451,
           "y": 384,
           "zOrder": 12,
           "numberProperties": [],
@@ -1294,150 +1334,6 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 126,
-          "layer": "",
-          "name": "PlantPotFullyGrown",
-          "persistentUuid": "da41e4fe-b689-4714-865a-dd7903b36e32",
-          "width": 131,
-          "x": 1692,
-          "y": 745,
-          "zOrder": 29,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 111,
-          "layer": "",
-          "name": "LampOn",
-          "persistentUuid": "a3737ee1-d729-478f-a302-1e6abb6d4f3b",
-          "width": 133,
-          "x": 31,
-          "y": 905,
-          "zOrder": 30,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 50,
-          "layer": "",
-          "name": "FlowerBase",
-          "persistentUuid": "dd368d29-c411-4769-9774-14417c77627c",
-          "width": 36,
-          "x": 446,
-          "y": 474,
-          "zOrder": -4,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 50,
-          "layer": "",
-          "name": "FlowerBase",
-          "persistentUuid": "1354663d-640e-4b69-bb6b-1f2fff7e374b",
-          "width": 36,
-          "x": 246,
-          "y": 477,
-          "zOrder": -1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 50,
-          "layer": "",
-          "name": "FlowerBase",
-          "persistentUuid": "02792cb3-e040-43b8-a5bb-201ef9fac9d8",
-          "width": 36,
-          "x": 395,
-          "y": 450,
-          "zOrder": -3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 50,
-          "layer": "",
-          "name": "FlowerBase",
-          "persistentUuid": "e41e7cc1-0936-4dd0-9546-f5a57f352f9d",
-          "width": 36,
-          "x": 312,
-          "y": 446,
-          "zOrder": -5,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 59,
-          "layer": "",
-          "name": "FlowerBase",
-          "persistentUuid": "c15ef532-ae5c-4a3b-b7a6-e6308cfc8cb2",
-          "width": 30,
-          "x": 215,
-          "y": 465,
-          "zOrder": -2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 50,
-          "layer": "",
-          "name": "FlowerBase",
-          "persistentUuid": "fad39a01-f63e-4683-80aa-3635a8c5a00d",
-          "width": 36,
-          "x": 165,
-          "y": 458,
-          "zOrder": 0,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 50,
-          "layer": "",
-          "name": "FlowerBase",
-          "persistentUuid": "78056960-c3d1-4065-9414-706790fabb59",
-          "width": 36,
-          "x": 163,
-          "y": 433,
-          "zOrder": -6,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
           "height": 165,
           "layer": "Instructions",
           "name": "InstructionsText",
@@ -1459,8 +1355,8 @@
           "name": "MoneyCount",
           "persistentUuid": "145d4eff-b36b-4d7d-bd35-1143aa8f3429",
           "width": 195,
-          "x": 89,
-          "y": 422,
+          "x": 87,
+          "y": 403,
           "zOrder": 35,
           "numberProperties": [],
           "stringProperties": [],
@@ -1515,22 +1411,6 @@
           "initialVariables": []
         },
         {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 111,
-          "layer": "",
-          "name": "LampOn",
-          "persistentUuid": "67cf0eac-5450-412f-a7b8-42287835b5f0",
-          "width": 133,
-          "x": 1720,
-          "y": 906,
-          "zOrder": 30,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
           "angle": 360,
           "customSize": true,
           "depth": 1,
@@ -1571,7 +1451,7 @@
           "name": "raw_meat",
           "persistentUuid": "f47312d4-616d-4029-8b72-596cf6cb6b4f",
           "width": 116,
-          "x": 617,
+          "x": 660,
           "y": 484,
           "zOrder": 6,
           "numberProperties": [],
@@ -1587,7 +1467,7 @@
           "name": "raw_meat2",
           "persistentUuid": "e17c6b11-9d5e-4bb6-9199-7e701dbcd4fd",
           "width": 134,
-          "x": 614,
+          "x": 657,
           "y": 459,
           "zOrder": 40,
           "numberProperties": [],
@@ -1603,7 +1483,7 @@
           "name": "cooked_meat",
           "persistentUuid": "df334e63-3aa3-4c69-ae89-fb7e0f0b7989",
           "width": 166,
-          "x": 621,
+          "x": 664,
           "y": 458,
           "zOrder": 7,
           "numberProperties": [],
@@ -1694,38 +1574,6 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 139,
-          "layer": "",
-          "name": "BrownBox",
-          "persistentUuid": "7b6dd38a-a5d6-42bd-9bdd-8a7216446b8a",
-          "width": 216,
-          "x": 56,
-          "y": 394,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 43,
-          "layer": "",
-          "name": "FlowerBulb",
-          "persistentUuid": "3471be34-b641-470e-93d3-6f1acef199a6",
-          "width": 53,
-          "x": 1733,
-          "y": 748,
-          "zOrder": 43,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
           "height": 141,
           "layer": "",
           "name": "reverse_chair_",
@@ -1756,47 +1604,31 @@
         },
         {
           "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 118,
-          "layer": "",
-          "name": "PlantPotFullyGrown",
-          "persistentUuid": "4e76fbf5-025e-4bda-b16b-34d25a7a2c1e",
-          "width": 108,
-          "x": 1772,
-          "y": 725,
-          "zOrder": 46,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 214,
-          "layer": "",
-          "name": "RedBox",
-          "persistentUuid": "37e55a1f-529c-49f6-b44d-147db227d9c4",
-          "width": 352,
-          "x": 52,
-          "y": 547,
-          "zOrder": 47,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
           "customSize": false,
           "height": 0,
           "layer": "",
           "name": "MenuText",
           "persistentUuid": "2a579c22-8316-4cf2-9c31-f5b031960593",
           "width": 0,
-          "x": 102,
-          "y": 567,
+          "x": 90,
+          "y": 553,
           "zOrder": 48,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 209,
+          "layer": "",
+          "name": "BlueBox",
+          "persistentUuid": "9d2779b0-c599-4689-b8c6-af7cf84a7816",
+          "width": 343,
+          "x": 46,
+          "y": 535,
+          "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4517,403 +4349,6 @@
           ]
         },
         {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "NewSprite",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "NewSprite",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "NewSprite9",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 6,
-                            "y": 16
-                          },
-                          {
-                            "x": 60,
-                            "y": 16
-                          },
-                          {
-                            "x": 60,
-                            "y": 50
-                          },
-                          {
-                            "x": 6,
-                            "y": 50
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "fb756cb650f4c9740b51e82a3f516ff274ee373fef57998ff1b813cc87ca9ca6",
-          "name": "PlantPotFullyGrown",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "No Shadow",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Plant-Pot Fully Grown_No Shadow.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 5,
-                            "y": 3
-                          },
-                          {
-                            "x": 27,
-                            "y": 3
-                          },
-                          {
-                            "x": 27,
-                            "y": 29
-                          },
-                          {
-                            "x": 5,
-                            "y": 29
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Shadow",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Plant-Pot Fully Grown_Shadow.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 5,
-                            "y": 3
-                          },
-                          {
-                            "x": 27,
-                            "y": 3
-                          },
-                          {
-                            "x": 27,
-                            "y": 29
-                          },
-                          {
-                            "x": 5,
-                            "y": 29
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "4e5f2f1e9dc9dfa806412884c8e720f8e0f29daaecf4f6fda26e8e55de42a0a4",
-          "name": "LampOn",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Lamp On.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 5,
-                            "y": 4
-                          },
-                          {
-                            "x": 12,
-                            "y": 4
-                          },
-                          {
-                            "x": 12,
-                            "y": 16
-                          },
-                          {
-                            "x": 5,
-                            "y": 16
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "2f988b46aa5f714ce665a31559ff0208ada4b3d80589b9cc98148fdbdc46a71d",
-          "name": "FlowerBulb",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "No Shadow",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Flower Bulb_No Shadow.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 3,
-                            "y": 4
-                          },
-                          {
-                            "x": 29,
-                            "y": 4
-                          },
-                          {
-                            "x": 29,
-                            "y": 29
-                          },
-                          {
-                            "x": 3,
-                            "y": 29
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Shadow",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Flower Bulb_Shadow.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 3,
-                            "y": 4
-                          },
-                          {
-                            "x": 29,
-                            "y": 4
-                          },
-                          {
-                            "x": 29,
-                            "y": 29
-                          },
-                          {
-                            "x": 3,
-                            "y": 29
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "4959989745abe1fc26e7adb14ddd65ebb5030981e593dc595c591e9d687123e9",
-          "name": "FlowerBase",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "flower base.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 57,
-                            "y": 0
-                          },
-                          {
-                            "x": 57,
-                            "y": 78
-                          },
-                          {
-                            "x": 0,
-                            "y": 78
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "assetStoreId": "",
           "bold": false,
           "italic": false,
@@ -5038,222 +4473,6 @@
           ]
         },
         {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "3cc86eb13fb1f91b2af51d2e3701a40acdda079a9679bf6d94ab6cb066a63710",
-          "name": "BrownBox",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "No Shadow",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Brown Box_No Shadow.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 97,
-                            "y": 0
-                          },
-                          {
-                            "x": 97,
-                            "y": 97
-                          },
-                          {
-                            "x": 0,
-                            "y": 97
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Shadow",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Brown Box_Shadow.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 97,
-                            "y": 0
-                          },
-                          {
-                            "x": 97,
-                            "y": 97
-                          },
-                          {
-                            "x": 0,
-                            "y": 97
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "e68e029cca8fc6848c52f1736ccaa268933fa5704f7079364baa9555d984225a",
-          "name": "RedBox",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "No Shadow",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Red Box_No Shadow.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 97,
-                            "y": 0
-                          },
-                          {
-                            "x": 97,
-                            "y": 97
-                          },
-                          {
-                            "x": 0,
-                            "y": 97
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Shadow",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Red Box_Shadow.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 97,
-                            "y": 0
-                          },
-                          {
-                            "x": 97,
-                            "y": 97
-                          },
-                          {
-                            "x": 0,
-                            "y": 97
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "assetStoreId": "",
           "bold": false,
           "italic": false,
@@ -5273,6 +4492,114 @@
             "g": 0,
             "r": 0
           }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "af21f69c20a38f1d1aefb475da60f7ff181f851b4f74ead05d185b7f104d2af8",
+          "name": "BlueBox",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "No Shadow",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Blue Box_No Shadow.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 97,
+                            "y": 0
+                          },
+                          {
+                            "x": 97,
+                            "y": 97
+                          },
+                          {
+                            "x": 0,
+                            "y": 97
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Shadow",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Blue Box_Shadow.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 97,
+                            "y": 0
+                          },
+                          {
+                            "x": 97,
+                            "y": 97
+                          },
+                          {
+                            "x": 0,
+                            "y": 97
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -5357,21 +4684,6 @@
             "objectName": "customer"
           },
           {
-            "objectName": "NewSprite"
-          },
-          {
-            "objectName": "PlantPotFullyGrown"
-          },
-          {
-            "objectName": "LampOn"
-          },
-          {
-            "objectName": "FlowerBulb"
-          },
-          {
-            "objectName": "FlowerBase"
-          },
-          {
             "objectName": "InstructionsText"
           },
           {
@@ -5381,13 +4693,10 @@
             "objectName": "MoneyCount"
           },
           {
-            "objectName": "BrownBox"
-          },
-          {
-            "objectName": "RedBox"
-          },
-          {
             "objectName": "MenuText"
+          },
+          {
+            "objectName": "BlueBox"
           }
         ]
       },
