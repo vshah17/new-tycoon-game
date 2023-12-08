@@ -1,5 +1,5 @@
 {
-  "firstLayout": "",
+  "firstLayout": "Start Menu",
   "gdVersion": {
     "build": 99,
     "major": 4,
@@ -1297,7 +1297,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.4194339782759064,
+        "zoomFactor": 0.4335774304702377,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -7436,11 +7436,12 @@
           "depth": 3,
           "height": 1080,
           "layer": "",
+          "locked": true,
           "name": "WoodBackground",
           "persistentUuid": "f48ee236-0ecc-41f6-8ef9-672313f80a91",
           "width": 1928,
-          "x": 0,
-          "y": 3,
+          "x": -3,
+          "y": -2,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -7487,8 +7488,8 @@
           "name": "PLAY_AGAIN",
           "persistentUuid": "cf9a14bc-43da-431f-9dd7-27f435205419",
           "width": 348,
-          "x": 770,
-          "y": 508,
+          "x": 752,
+          "y": 349,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -7503,8 +7504,8 @@
           "name": "QUIT",
           "persistentUuid": "674a7077-02c0-4a29-8857-633624556db5",
           "width": 351,
-          "x": 771,
-          "y": 686,
+          "x": 753,
+          "y": 527,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -7519,9 +7520,24 @@
           "name": "Win",
           "persistentUuid": "dcd5a4ba-67f5-440f-a10c-e9de64bb3475",
           "width": 1205,
-          "x": 354,
-          "y": 169,
+          "x": 367,
+          "y": 56,
           "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "CreditsText",
+          "persistentUuid": "2dbaf81d-8e43-4227-acd7-74dbfb51d5ae",
+          "width": 0,
+          "x": 279,
+          "y": 701,
+          "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -7786,6 +7802,27 @@
             "g": 0,
             "r": 0
           }
+        },
+        {
+          "assetStoreId": "",
+          "bold": true,
+          "italic": false,
+          "name": "CreditsText",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Credits:\nVansh Shah - Logics and Structure\nAnthony Nguyen - Concepts and Planning\nAngel Andaya - Visual Layout and Audio",
+          "font": "e96b43b0ca3fd7775d75a702f44cd1b0dfd325e1db317f7cba84efdf572571fe_Roboto-Regular.ttf",
+          "textAlignment": "center",
+          "characterSize": 65,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
         }
       ],
       "objectsFolderStructure": {
@@ -7805,6 +7842,9 @@
           },
           {
             "objectName": "Win"
+          },
+          {
+            "objectName": "CreditsText"
           }
         ]
       },
